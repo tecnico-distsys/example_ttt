@@ -1,6 +1,6 @@
-# ... example
+# Tic Tac Toe example
 
-This is an example of ...
+This is a Java implementation of the Tic Tac Toe game
 
 
 ## Maven instructions
@@ -15,6 +15,11 @@ To compile the source code:
 
 ```
 mvn compile
+```
+
+To run using exec plugin:
+```
+mvn exec:java
 ```
 
 ## To configure the Maven project in Eclipse
